@@ -1,0 +1,5 @@
+"id","username","registration_date","gender","HOBBY","vek","isActiveUser"
+"4","johndoe","2024-02-25","Male","walking","36","True"
+"5","alice_smith	","2024-02-26 00:00:00","Female","running","43","True"
+"10","olivia_clark","2023-03-25","Female","hiking",38,"1"
+"2","mike_jackson","0000-00-00","Male","dancing","30","0"
